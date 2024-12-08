@@ -7,7 +7,7 @@
 
 # 컴파일러 및 플래그 설정
 CXX = g++
-CXXFLAGS = -Iinclude -std=c++14
+CXXFLAGS = -Iinclude -std=c++17
 
 # 디렉토리 및 파일
 SRCDIR = src

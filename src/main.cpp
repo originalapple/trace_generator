@@ -63,7 +63,7 @@ public:
     }
 };
 
-int main() {
+int main(int argc, char* argv[]) {
     DataFrame df;
 
     // 컬럼 추가
